@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVP_DemoApp</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_placeholder">Name</string>
+    <string name="password_placeholder">Age</string>
+    <string name="btn_signin">Check Eligibility</string>
+    <string name="invalid_credentials_error">Invalid name or age</string>
+    <string name="success">Congratulations! You are eligible for the undergraduate program</string>
+    <string name="home_desc">Great! You\'ve made it to the HomeActivity.</string>
+</resources>
